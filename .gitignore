@@ -1,0 +1,7 @@
+
+
+# Local environments and generated artifacts
+__pycache__/
+*.pyc
+.venv/
+.env
